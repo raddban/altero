@@ -1,0 +1,5 @@
+1. Pēc pogas nospiešanas datubāzē saglabājās dati.
+2. Manuāli samainīt "ask" uz "offer" tabulā deals.
+3. Refresh lappu, un atverot log.txt failu, bus redzams ieraksts.
+4. Ir uztaisīts datu logošana e-pastu izsūtīšanas vietā.
+5. Logošanas vietā samainīt uz e-pastu izsūtīšanu, un strādās e-pastu izsūtīšana. 
